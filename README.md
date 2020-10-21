@@ -2,6 +2,7 @@
 Re-written standart C functions
 
 Additional functions:
+
 	ft_substr
 Allocates (with malloc(3)) and returns a substring
 from the string ’s’.
